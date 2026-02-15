@@ -23,7 +23,7 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 
 - **💬 [DialAI](https://dailai.vercel.app)** - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments (Closed source)
 - **🎓 [FindMyCenter](https://github.com/onerandomdevv/find-my-center)** - Web/mobile app helping Nigerian JAMB students locate exam centers on slow networks
-- **📰 [ArticlesOnX](...)** - Download Twitter articles, convert to PDF, and save to your phone
+- **📰 [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git)** - Download Twitter articles, convert to PDF, and save to your phone
 - **🎬 [Creators Hub](https://creatorshub.pxxl.click)** - E-commerce platform providing tools, equipment, and gadgets for digital content creators
 
 ---
