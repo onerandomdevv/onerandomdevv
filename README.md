@@ -20,6 +20,7 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 
 ## 🔥 Current Projects
 
+- **💬 [DialAI](https://dailai.vercel.app)** - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments
 - **🎓 [FindMyCenter](https://github.com/onerandomdevv/find-my-center)** - Web/mobile app helping Nigerian JAMB students locate exam centers on slow networks
 - **📰 [ArticlesOnX](https://github.com/onerandomdevv/articlesonx)** - Download Twitter articles, convert to PDF, and save to your phone
 - **🎬 [Creators Hub](https://creatorshub.pxxl.click)** - E-commerce platform providing tools, equipment, and gadgets for digital content creators
@@ -35,7 +36,6 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 ## What I'm Doing
 
 - 🚀 **Building AI-powered solutions** – Creating intelligent systems with prompt engineering and LLM orchestration
-- 💬 **DialAI** – Voice & SMS assistant with USSD integration for African markets
 - ⚡ **Full-stack development** – Crafting seamless experiences from frontend to backend
 - 🎨 **Modern web applications** – Next.js, React, and TailwindCSS with premium UX
 - 🔧 **API integrations** – Africa's Talking, Twilio, Sanity CMS, and more
