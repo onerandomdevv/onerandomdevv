@@ -20,9 +20,9 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 
 ## 🔥 Current Projects
 
-- **💬 DialAI** - AI-powered voice & SMS assistant with USSD integration for African markets
-- **🧘 FindMyCenter** - Mental wellness platform helping users find balance and inner peace
-- **🤖 AI Integrations** - Building intelligent systems with prompt engineering and LLM orchestration
+- **🎓 [FindMyCenter](https://github.com/onerandomdevv/find-my-center)** - Web/mobile app helping Nigerian JAMB students locate exam centers on slow networks
+- **📰 [ArticlesOnX](https://github.com/onerandomdevv/articlesonx)** - Download Twitter articles, convert to PDF, and save to your phone
+- **🎬 [Creators Hub](https://creatorshub.pxxl.click)** - E-commerce platform providing tools, equipment, and gadgets for digital content creators
 
 ---
 
