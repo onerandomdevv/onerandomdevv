@@ -34,14 +34,6 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 
 ---
 
-## ⚡ Coding Habits
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onerandomdevv&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=7FFF00&text_color=FFFFFF" alt="WakaTime Stats" />
-</div>
-
----
-
 ## What I'm Doing
 
 - 🚀 **Building AI-powered solutions** – Creating intelligent systems with prompt engineering and LLM orchestration
