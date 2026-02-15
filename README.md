@@ -1,6 +1,7 @@
-# Hi, I'm Ameen 👋
-
-**🚀 Software Developer** | **⚡ Full Stack Engineer** | **🤖 Prompt Engineer**
+<h1 align="center">Hi, I'm Ameen 👋</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Prompt+Engineer;Building+AI+Solutions" alt="Typing SVG" />
+</h3>
 
 Deep in code, building AI-powered solutions and full-stack applications. Crafting seamless user experiences from frontend to backend, with a passion for clean code and innovative AI integrations.
 
