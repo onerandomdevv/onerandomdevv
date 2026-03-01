@@ -30,12 +30,6 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 
 ---
 
-## GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onerandomdevv&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00)
-
----
-
 ## What I'm Doing
 
 - 🚀 **Building AI-powered solutions** – Creating intelligent systems with prompt engineering and LLM orchestration
@@ -55,6 +49,10 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/onerandomdevv)
 
 ---
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onerandomdevv&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00)
 
 <br />
 
