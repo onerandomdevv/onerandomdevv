@@ -55,13 +55,15 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onerandomdevv&color=7FFF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
 <br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onerandomdevv&theme=dark&hide_border=true&background=0D1117&ring=7FFF00&fire=7FFF00&currStreakNum=FFFFFF&currStreakLabel=7FFF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8b949e" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerandomdevv&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FFF00&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=onerandomdevv&color=7FFF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
