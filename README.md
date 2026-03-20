@@ -23,7 +23,7 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 ## 🔥 Current Projects
 
 - **💬 [DialAI](https://dailai.vercel.app)** - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments
-- **🏗️ [SwiftTrade](https://swift-trade-psi.vercel.app)** - A secured B2B Private trading platform for Nigeria hardware trading infrastructure
+- **🏗️ [Swifta](https://swifta.store)** - A secured B2B Private trading platform for Nigeria hardware trading infrastructure
 - **🎓 [FindMyCenter](https://github.com/onerandomdevv/find-my-center)** - Web/mobile app helping Nigerian JAMB students locate exam centers on slow networks
 - **📰 [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git)** - Download Twitter articles, convert to PDF, and save to your phone
 - **🎬 [Creators Hub](https://github.com/onerandomdevv/creatorshub.git)** - E-commerce platform providing tools, equipment, and gadgets for digital content creators
