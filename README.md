@@ -4,7 +4,6 @@
 </h3>
 
 Driven by code, building full-stack applications and blending AI to create smarter systems. Focused on clean, seamless frontend-to-backend experiences. 
-Open to software development roles, full-stack projects, and collaborations.
 ---
 
 ## 🛠️ Tech Stack
