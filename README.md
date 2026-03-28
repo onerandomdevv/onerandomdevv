@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Developer;Prompt+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 </h3>
 
-Driven by code, building full-stack software applications and blending AI to create smarter systems. Crafting seamless user experiences from frontend to backend with a focus on clean code and innovative integrations.
+Driven by code, building full-stack applications and blending AI to create smarter systems. Focused on clean, seamless frontend-to-backend experiences. 
 Open to software development roles, full-stack projects, and collaborations.
 ---
 
