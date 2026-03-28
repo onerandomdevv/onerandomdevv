@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Ameen 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Prompt+Engineer;Building+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Developer;Prompt+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 </h3>
 
-Deep in code, building AI-powered solutions and full-stack applications. Crafting seamless user experiences from frontend to backend, with a passion for clean code and innovative AI integrations.
-
+Driven by code, building full-stack software applications and blending AI to create smarter systems. Crafting seamless user experiences from frontend to backend with a focus on clean code and innovative integrations.
+Open to software development roles, full-stack projects, and collaborations.
 ---
 
 ## 🛠️ Tech Stack
@@ -23,7 +23,7 @@ Deep in code, building AI-powered solutions and full-stack applications. Craftin
 ## 🔥 Current Projects
 
 - **💬 [DialAI](https://dailai.vercel.app)** - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments
-- **🏗️ [Swifta](https://swifta.store)** - A secured B2B Private trading platform for Nigeria hardware trading infrastructure
+- **🏗️ [Swifta](https://swifta.store)** - A social commerce marketplace where users discover products via a scrollable feed and buy with escrow-protected payments—while sellers manage orders and get paid instantly.
 - **🎓 [FindMyCenter](https://github.com/onerandomdevv/find-my-center)** - Web/mobile app helping Nigerian JAMB students locate exam centers on slow networks
 - **📰 [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git)** - Download Twitter articles, convert to PDF, and save to your phone
 - **🎬 [Creators Hub](https://github.com/onerandomdevv/creatorshub.git)** - E-commerce platform providing tools, equipment, and gadgets for digital content creators
