@@ -23,6 +23,7 @@ Driven by code, building full-stack applications and blending AI to create smart
 
 - **💬 [DialAI](https://dailai.vercel.app)** - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments
 - **🏗️ [Swifta](https://swifta.store)** - A social commerce marketplace where users discover products via a scrollable feed and buy with escrow-protected payments—while sellers manage orders and get paid instantly.
+- **💂‍♂️ [LineageGuard](https://github.com/coded-devs/lineageguard.git)** - A deterministic impact analysis tool that predicts the downstream "blast radius" of schema changes by automatically walking your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph
 - **🎓 [FindMyCenter](https://github.com/onerandomdevv/find-my-center)** - Web/mobile app helping Nigerian JAMB students locate exam centers on slow networks
 - **📰 [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git)** - Download Twitter articles, convert to PDF, and save to your phone
 - **🎬 [Creators Hub](https://github.com/onerandomdevv/creatorshub.git)** - E-commerce platform providing tools, equipment, and gadgets for digital content creators
