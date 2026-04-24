@@ -3,20 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Developer;Prompt+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 </h3>
 
-## Building applications and blending AI to create smarter systems.
+## I Build applications and blend AI to create smarter systems, focused on seemless user experience and Scalabilty. 
 
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
----
+### 🛠️ Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## 🔥 Current Projects
 
@@ -30,12 +19,11 @@
 ---
 
 ## What I'm Doing
-
-- 🚀 **Building AI-powered solutions** – Creating intelligent systems with prompt engineering and LLM orchestration
-- ⚡ **Full-stack development** – Crafting seamless experiences from frontend to backend
-- 🎨 **Modern web applications** – Next.js, React, and TailwindCSS with premium UX
-- 🔧 **API integrations** – Africa's Talking, Twilio, Sanity CMS, and more
-- 📱 **Real-time features** – WebRTC, voice calls, and interactive interfaces
+-  **Building AI-powered solutions** – Creating intelligent systems with prompt engineering and LLM orchestration
+-  **Full-stack development** – Crafting seamless experiences from frontend to backend
+-  **Modern web applications** – Next.js, React, and TailwindCSS with premium UX
+-  **API integrations** – Africa's Talking, Twilio, Sanity CMS, and more
+-  **Real-time features** – WebRTC, voice calls, and interactive interfaces
 
 ---
 
