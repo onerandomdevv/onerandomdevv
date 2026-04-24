@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Developer;Prompt+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 </h3>
 
-***Building applications and blending AI to create smarter systems.***
+## Building applications and blending AI to create smarter systems.
 
 ## 🛠️ Tech Stack
 
