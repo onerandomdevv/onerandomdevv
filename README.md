@@ -1,23 +1,24 @@
-```
-Profile:
-─────────────────────────────
-About    : I love fixing complex problems with simple solutions
-Role     : Full Stack Engineer
-Location : Lagos, Nigeria 🇳🇬
-Socials  : @onerandomdevv
-Portfolio: https://onerandomdevv.pxxl.click
+<pre>
+<span style="color:#F7DF1E">Profile:</span>
+<span style="color:#888">────────────────────────────────</span>
+<span style="color:#F7DF1E">About    </span><span style="color:#888">:</span> I love fixing complex problems with simple solutions
+<span style="color:#F7DF1E">Role     </span><span style="color:#888">:</span> Full Stack Engineer
+<span style="color:#F7DF1E">Location </span><span style="color:#888">:</span> Lagos, Nigeria 🇳🇬
+<span style="color:#F7DF1E">Socials  </span><span style="color:#888">:</span> @onerandomdevv
+<span style="color:#F7DF1E">Portfolio</span><span style="color:#888">:</span> https://onerandomdevv.pxxl.click
 
-Focus:
-─────────────────────────────
-→ AI Products & African Market Tech
-→ Startups, Business & Finance Products
-→ Consumer Apps, Developer Tools, CaaS, AIaaS
+<span style="color:#F7DF1E">Focus:</span>
+<span style="color:#888">────────────────────────────────</span>
+<span style="color:#7FFF00">→</span> AI Products & African Market Tech
+<span style="color:#7FFF00">→</span> Startups, Business & Finance Products
+<span style="color:#7FFF00">→</span> Consumer Apps, Developer Tools, CaaS, AIaaS
 
-Currently Building:
-─────────────────────────────
-→ Twizrr  — WhatsApp Social Commerce Platform
-→ DialAI  — Offline-first AI via USSD/SMS/Voice
-```
+<span style="color:#F7DF1E">Currently Building:</span>
+<span style="color:#888">────────────────────────────────</span>
+<span style="color:#7FFF00">→</span> Twizrr  — WhatsApp Social Commerce Platform
+<span style="color:#7FFF00">→</span> DialAI  — Offline-first AI via USSD/SMS/Voice
+</pre>
+
 ## Tech Stack:
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn%2FUI-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square&logo=react&logoColor=white) 
  ##### Auth & Security
