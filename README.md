@@ -59,22 +59,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=onerandomdevv&color=7FFF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-<div align="center">
-  <a href="https://onerandomdevv.pxxl.click/">
-    <img src="https://img.shields.io/badge/-Portfolio-7FFF00?style=flat-square&logo=google-chrome&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/onerandomdevv">
-    <img src="https://img.shields.io/badge/-X (Twitter)-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-   <a href="https://instagram.com/onerandomdevv">
-    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/onerandomdevv">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abdulkareemalameen85@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-
