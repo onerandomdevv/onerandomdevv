@@ -1,0 +1,44 @@
+<svg width="860" height="520" viewBox="0 0 860 520" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
+  <!-- Background (GitHub dark theme) -->
+  <rect width="860" height="520" fill="#0D1117"/>
+
+  <!--
+    Left column (x: 0–300) intentionally left empty for ASCII art.
+    Right column starts at x=320.
+  -->
+
+  <style>
+    text { font-size: 15px; white-space: pre; }
+    .label   { fill: #F7DF1E; }   /* yellow  */
+    .arrow   { fill: #7FFF00; }   /* green   */
+    .divider { fill: #888888; }   /* grey    */
+    .value   { fill: #FFFFFF; }   /* white   */
+  </style>
+
+  <g transform="translate(320, 0)">
+    <!-- Profile section -->
+    <text x="0" y="110" class="label">Profile:</text>
+    <text x="0" y="132" class="divider">────────────────────────────────</text>
+
+    <text x="0" y="156"><tspan class="label">About    : </tspan><tspan class="value">I love fixing complex problems with simple solutions</tspan></text>
+    <text x="0" y="178"><tspan class="label">Role     : </tspan><tspan class="value">Full Stack Engineer</tspan></text>
+    <text x="0" y="200"><tspan class="label">Location : </tspan><tspan class="value">Lagos, Nigeria 🇳🇬</tspan></text>
+    <text x="0" y="222"><tspan class="label">Socials  : </tspan><tspan class="value">@onerandomdevv</tspan></text>
+    <text x="0" y="244"><tspan class="label">Portfolio: </tspan><tspan class="value">https://onerandomdevv.pxxl.click</tspan></text>
+
+    <!-- Focus section -->
+    <text x="0" y="288" class="label">Focus:</text>
+    <text x="0" y="310" class="divider">────────────────────────────────</text>
+
+    <text x="0" y="334"><tspan class="arrow">→ </tspan><tspan class="value">AI Products &amp; African Market Tech</tspan></text>
+    <text x="0" y="356"><tspan class="arrow">→ </tspan><tspan class="value">Startups, Business &amp; Finance Products</tspan></text>
+    <text x="0" y="378"><tspan class="arrow">→ </tspan><tspan class="value">Consumer Apps, Developer Tools, CaaS, AIaaS</tspan></text>
+
+    <!-- Currently Building section -->
+    <text x="0" y="422" class="label">Currently Building:</text>
+    <text x="0" y="444" class="divider">────────────────────────────────</text>
+
+    <text x="0" y="468"><tspan class="arrow">→ </tspan><tspan class="value">Twizrr  — WhatsApp Social Commerce Platform</tspan></text>
+    <text x="0" y="490"><tspan class="arrow">→ </tspan><tspan class="value">DialAI  — Offline-first AI via USSD/SMS/Voice</tspan></text>
+  </g>
+</svg>
