@@ -31,18 +31,9 @@
 #####  AI Tools:
  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-OpenAI-551A8B?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-blueviolet?style=flat-square&logo=rabbit&logoColor=white)](https://coderabbit.ai)
 
-#### Skills
-
-- 🤖 **AI Integration** — Embedding LLMs (Gemini, Claude, GPT) into production apps; building AI-powered features and chat interfaces
-- ✍🏽 **Prompt Engineering** — Designing structured prompts for LLM-powered features, system prompt architecture, and optimizing model outputs for production use
-- 📡 **Telecom & Messaging APIs** — Africa's Talking (SMS, USSD, Voice), WhatsApp Business API, multi-channel communication systems
-- 🔗 **API Design & Integration** — REST APIs, third-party service integration, webhook handling, payment gateways (Paystack)
-- 🏗️ **System Architecture** — Background job queues (BullMQ), event-driven design, database branching workflows
-
-## Current Projects
+## Projects
 - [DialAI](https://dailai.vercel.app) - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments
 - [LineageGuard](https://github.com/coded-devs/lineageguard.git) - A deterministic impact analysis tool that predicts the downstream "blast radius" of schema changes by automatically walking your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph
-- [FindMyCenter](https://github.com/onerandomdevv/find-my-center) - Web/mobile app helping Nigerian JAMB students locate exam centers on slow networks
 - [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git) - Download Twitter articles, convert to PDF, and save to your phone
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onerandomdevv&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00)
