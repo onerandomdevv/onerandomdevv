@@ -5,7 +5,7 @@
 <span style="color:#F7DF1E">Role     </span><span style="color:#888">:</span> Full Stack Engineer
 <span style="color:#F7DF1E">Location </span><span style="color:#888">:</span> Lagos, Nigeria 🇳🇬
 <span style="color:#F7DF1E">Socials  </span><span style="color:#888">:</span> @onerandomdevv
-<span style="color:#F7DF1E">Portfolio</span><span style="color:#888">:</span> https://onerandomdevv.pxxl.click
+<span style="color:#F7DF1E">Portfolio</span><span style="color:#888">:</span> https://onerandomdevv.cv
 
 <span style="color:#F7DF1E">Focus:</span>
 <span style="color:#888">────────────────────────────────</span>
