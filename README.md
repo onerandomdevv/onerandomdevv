@@ -30,17 +30,17 @@
 - [LineageGuard](https://github.com/coded-devs/lineageguard.git) - A deterministic impact analysis tool that predicts the downstream "blast radius" of schema changes by automatically walking your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph
 - [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git) - Download Twitter articles, convert to PDF, and save to your phone
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onerandomdevv&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onerandomd3v&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00)
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onerandomdevv&theme=dark&hide_border=true&background=0D1117&ring=7FFF00&fire=7FFF00&currStreakNum=FFFFFF&currStreakLabel=7FFF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onerandomd3v&theme=dark&hide_border=true&background=0D1117&ring=7FFF00&fire=7FFF00&currStreakNum=FFFFFF&currStreakLabel=7FFF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8b949e" alt="GitHub Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=onerandomdevv&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FFF00&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onerandomdevv&color=7FFF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=onerandomd3v&color=7FFF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
